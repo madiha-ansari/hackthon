@@ -1,0 +1,36 @@
+
+
+.tab-btns {
+ 
+    width: Fixed (140px)px;
+height: Fixed (40px)px;
+top: 32px;
+left: 1033px;
+padding: 5px 26px 5px 26px;
+gap: 10px;
+border-radius: 30px 30px 30px 30px;
+opacity: 0px;
+
+}
+
+
+
+.tab-btns a:hover{
+
+    color: blue;
+}
+
+
+
+.madihaa:hover{
+
+    color:white;
+}
+
+
+
+@media (max-width: 400px){
+
+
+
+}
